@@ -8,6 +8,7 @@
       <mapping ext="template" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern=".hlp" type="PLAIN_TEXT" />
       <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern="a498173c74b8" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
