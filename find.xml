@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '.../drupal/sites/default/civicrm/extensions/org.wikimedia.geocoder'" />
+    <option name="defaultScopeName" value="Directory '.../drupal/sites/default/civicrm/extensions/org.wikimedia.geocoder'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../drupal/sites/default/civicrm/extensions/org.wikimedia.geocoder'" />
     <mask>*.tpl</mask>
   </component>
 </application>
