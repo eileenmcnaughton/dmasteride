@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../nz.co.fuzion.extendedreport/tests'" />
-    <option name="defaultScopeName" value="Directory '.../nz.co.fuzion.extendedreport/tests'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../nz.co.fuzion.extendedreport/tests'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.tpl</mask>
   </component>
 </application>
