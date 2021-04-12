@@ -10,11 +10,12 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".hlp" type="PLAIN_TEXT" />
-      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern="a498173c74b8" type="PLAIN_TEXT" />
+      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
