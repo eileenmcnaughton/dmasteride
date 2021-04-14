@@ -16,6 +16,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
