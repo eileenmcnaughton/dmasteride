@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
       <mapping pattern="civicrm-syslog" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
@@ -10,8 +11,8 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern=".hlp" type="PLAIN_TEXT" />
-      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern="a498173c74b8" type="PLAIN_TEXT" />
+      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
