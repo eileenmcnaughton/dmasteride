@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="6c04046d-89c2-48ec-b318-a7f38218fce7" name="wmff" url="https://wmff.localhost:32353">
+        <fileTransfer mountedRoot="/srv/civi-sites/wmff" accessType="MOUNT" port="0" />
+      </webServer>
       <webServer id="ffddf17b-f2f5-4af4-9272-0bb414c462b1" name="dmaster" url="https://dmaster.localhost:32353">
         <fileTransfer mountedRoot="/srv/civi-sites/dmaster/web/sites/all/modules/civicrm" accessType="MOUNT" port="0" />
       </webServer>
