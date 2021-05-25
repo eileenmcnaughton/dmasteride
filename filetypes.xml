@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="cv" type="AUTO_DETECTED" />
       <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
       <mapping pattern="civicrm-syslog" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
