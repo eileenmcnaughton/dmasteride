@@ -4,7 +4,6 @@
       <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
       <mapping pattern="cv" type="AUTO_DETECTED" />
       <mapping pattern="civicrm-syslog" type="AUTO_DETECTED" />
-      <mapping ext="info" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="install" type="PHP" />
@@ -22,6 +21,7 @@
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping ext="info" type="Ini" />
     </extensionMap>
   </component>
 </application>
