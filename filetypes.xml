@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
       <mapping pattern="cv" type="AUTO_DETECTED" />
+      <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
       <mapping pattern="civicrm-syslog" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -13,15 +13,15 @@
       <mapping ext="template" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern="a498173c74b8" type="PLAIN_TEXT" />
-      <mapping pattern=".hlp" type="PLAIN_TEXT" />
+      <mapping pattern="Using" type="PLAIN_TEXT" />
       <mapping pattern=".editorConfig" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern=".hlp" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
