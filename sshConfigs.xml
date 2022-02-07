@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="yeswhangarei.co.nz" id="2c3bffc3-ab71-4caf-867b-36c20eefac8c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="eileen" />
+    </configs>
+  </component>
+</application>
