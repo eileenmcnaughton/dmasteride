@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.tpl</mask>
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
