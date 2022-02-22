@@ -7,6 +7,9 @@
       <webServer id="ffddf17b-f2f5-4af4-9272-0bb414c462b1" name="dmaster" url="https://dmaster.localhost:32353">
         <fileTransfer mountedRoot="/srv/civi-sites/dmaster/web/sites/all/modules/civicrm" accessType="MOUNT" port="0" />
       </webServer>
+      <webServer id="bac0c97e-352e-40ff-b9f7-a4573547952b" name="art" url="https://art.localhost:32353/">
+        <fileTransfer mountedRoot="/srv/civi-sites/art" accessType="MOUNT" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
