@@ -6,5 +6,6 @@
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*.tpl</mask>
+    <mask>*Preview*</mask>
   </component>
 </application>
