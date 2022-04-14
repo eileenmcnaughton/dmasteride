@@ -5,7 +5,7 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
-    <mask>*.tpl</mask>
     <mask>*Preview*</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
