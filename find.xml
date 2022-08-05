@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/nz.co.fuzion.extendedreport/CRM/Extendedreport/Form/Report/ExtendedReport.php'" />
+    <option name="defaultScopeName" value="File '…/nz.co.fuzion.extendedreport/CRM/Extendedreport/Form/Report/ExtendedReport.php'" />
+    <option name="SEARCH_SCOPE" value="File '…/nz.co.fuzion.extendedreport/CRM/Extendedreport/Form/Report/ExtendedReport.php'" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*Preview*</mask>
