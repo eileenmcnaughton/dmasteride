@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '…/nz.co.fuzion.extendedreport'" />
-    <option name="defaultScopeName" value="Directory '…/nz.co.fuzion.extendedreport'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/nz.co.fuzion.extendedreport'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*Preview*</mask>
