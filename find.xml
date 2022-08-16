@@ -3,10 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.mgd.php" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*Preview*</mask>
     <mask>*.tpl</mask>
     <mask>*.bool.php</mask>
+    <mask>*.mgd.php</mask>
   </component>
 </application>
