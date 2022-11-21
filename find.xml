@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '…/wp-content/uploads/civicrm/ext/nz.co.fuzion.civixero'" />
-    <option name="defaultScopeName" value="Directory '…/wp-content/uploads/civicrm/ext/nz.co.fuzion.civixero'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '…/wp-content/uploads/civicrm/ext/nz.co.fuzion.civixero'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*Preview*</mask>
