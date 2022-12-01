@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.hlp</mask>
     <mask>*.xml</mask>
     <mask>*Preview*</mask>
@@ -11,5 +12,6 @@
     <mask>*.mgd.php</mask>
     <mask>*.ang.php</mask>
     <mask>info.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
