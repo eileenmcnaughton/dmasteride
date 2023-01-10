@@ -12,5 +12,6 @@
     <mask>info.xml</mask>
     <mask>*.csv</mask>
     <mask>*.hlp</mask>
+    <mask>*.install</mask>
   </component>
 </application>
