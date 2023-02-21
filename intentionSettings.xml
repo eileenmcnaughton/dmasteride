@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Split string in two strings and concatenation" />
+  </component>
+</application>
