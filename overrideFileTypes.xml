@@ -1,0 +1,5 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/dev/fundraising-dev/src/civi-sites/dmaster/web/sites/all/modules/civicrm/CRM/Import/DataSource/UserJob.php" value="PHP" />
+  </component>
+</application>
