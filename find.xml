@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="feral-dog-hunt" />
-    <option name="defaultScopeName" value="feral-dog-hunt" />
-    <option name="SEARCH_SCOPE" value="feral-dog-hunt" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Preview*</mask>
     <mask>*.bool.php</mask>
     <mask>*.mgd.php</mask>
