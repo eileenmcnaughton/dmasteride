@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*Preview*</mask>
     <mask>*.bool.php</mask>
     <mask>*.mgd.php</mask>
@@ -12,7 +13,7 @@
     <mask>*.hlp</mask>
     <mask>*.install</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.tpl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
