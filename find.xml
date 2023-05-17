@@ -10,9 +10,9 @@
     <mask>*.csv</mask>
     <mask>*.hlp</mask>
     <mask>*.install</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.mgd.php</mask>
+    <mask>*.php</mask>
     <mask>*.tpl</mask>
   </component>
 </application>
