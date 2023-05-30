@@ -2,9 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="payments-syslog" type="AUTO_DETECTED" />
-      <mapping pattern="WMFDonorTest.php" type="AUTO_DETECTED" />
-      <mapping pattern="custom-dashboards" type="AUTO_DETECTED" />
-      <mapping pattern="cv" type="AUTO_DETECTED" />
       <mapping pattern="civicrm-syslog" type="AUTO_DETECTED" />
       <mapping ext="info" type="Ini" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -29,7 +26,10 @@
       <removed_mapping pattern="CancelInactivesTest" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="UserJob.php" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Using" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="WMFDonorTest.php" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="a498173c74b8" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="custom-dashboards" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="cv" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
