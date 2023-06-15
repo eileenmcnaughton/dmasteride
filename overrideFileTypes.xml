@@ -2,6 +2,6 @@
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/dev/fundraising-dev/src/civi-sites/dmaster/web/sites/all/modules/civicrm/CRM/Core/BAO/UserJob.php" value="PHP" />
     <file url="file://$USER_HOME$/dev/fundraising-dev/src/civi-sites/dmaster/web/sites/all/modules/civicrm/Civi/Api4/UserJob.php" value="PHP" />
-    <file url="file://$USER_HOME$/dev/fundraising-dev/src/civi-sites/wmff/drupal/sites/default/civicrm/extensions/wmf-civicrm/tests/phpunit/Civi/Api4/Action/WMFDonor/WMFDonorTest.php" value="PHP" />
+    <file url="file://$USER_HOME$/dev/fundraising-dev/src/civi-sites/wmff/drupal/sites/default/civicrm/extensions/wmf-civicrm/tests/phpunit/Civi/Api4/Action/WMFDonorTest.php" value="PHP" />
   </component>
 </application>
