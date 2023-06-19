@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*Preview*</mask>
     <mask>*.bool.php</mask>
     <mask>*.ang.php</mask>
@@ -13,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.mgd.php</mask>
     <mask>*.php</mask>
-    <mask>*.tpl</mask>
     <mask>*.drush.inc</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
