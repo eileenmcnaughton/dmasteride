@@ -13,7 +13,7 @@
     <mask>*.mgd.php</mask>
     <mask>*.php</mask>
     <mask>*.drush.inc</mask>
-    <mask>*.tpl</mask>
     <mask>*.xml</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
