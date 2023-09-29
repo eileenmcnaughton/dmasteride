@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>event*.tpl</mask>
   </component>
 </application>
