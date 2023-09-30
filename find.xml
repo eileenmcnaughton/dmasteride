@@ -19,5 +19,6 @@
     <mask>*.tpl</mask>
     <mask>participant*.tpl</mask>
     <mask>event*.tpl</mask>
+    <mask>event_off*.tpl</mask>
   </component>
 </application>
