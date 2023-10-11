@@ -8,7 +8,6 @@
     <mask>*Preview*</mask>
     <mask>*.bool.php</mask>
     <mask>*.ang.php</mask>
-    <mask>info.xml</mask>
     <mask>*.csv</mask>
     <mask>*.hlp</mask>
     <mask>*.install</mask>
@@ -20,5 +19,6 @@
     <mask>event*.tpl</mask>
     <mask>event_off*.tpl</mask>
     <mask>*.tpl</mask>
+    <mask>info.xml</mask>
   </component>
 </application>
