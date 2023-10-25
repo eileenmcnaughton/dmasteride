@@ -11,7 +11,6 @@
     <mask>*.csv</mask>
     <mask>*.hlp</mask>
     <mask>*.install</mask>
-    <mask>*.mgd.php</mask>
     <mask>*.drush.inc</mask>
     <mask>*.xml</mask>
     <mask>participant*.tpl</mask>
@@ -20,5 +19,6 @@
     <mask>info.xml</mask>
     <mask>*.php</mask>
     <mask>*.tpl</mask>
+    <mask>*.mgd.php</mask>
   </component>
 </application>
