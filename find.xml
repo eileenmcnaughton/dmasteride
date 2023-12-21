@@ -20,7 +20,7 @@
     <mask>*.mgd.php</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
-    <mask>*.tpl</mask>
     <mask>*.setting.php</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
